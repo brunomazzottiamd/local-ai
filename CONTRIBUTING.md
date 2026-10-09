@@ -74,3 +74,7 @@ Follow these conventions when contributing to the project:
 ## License
 
 Contributions are under the MIT license in [LICENSE](LICENSE).
+
+## Maintainers
+
+- Bruno Mazzotti - [bruno.mazzotti@amd.com](mailto:bruno.mazzotti@amd.com)
